@@ -15,8 +15,8 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
     - [Opera](https://addons.opera.com/fr/extensions/),
     - [Firefox](https://addons.mozilla.org/fr/firefox/),
     - [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
-2. Add your RSS feeds in the settings,
-    *Optional*: Add filters to your feeds if needed.
+2. Add your RSS feeds in the settings,  
+   *Optional*: Add filters to your feeds if needed.
 
 3. Enjoy.
 
