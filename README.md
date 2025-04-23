@@ -23,10 +23,10 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 
 ## Contribution
 
-Feel free to fork this repository and create pull requests to add your amazing features if you feel like it, I'll enjoy reviewing them. 
-Good ideas are more than welcome!
+Feel free to fork this repository and open pull requests to add your amazing features if you feel like it.<br>
+I'll enjoy reviewing them. Good ideas are always more than welcome!
 
 ## License
 
-This extension is licensed under the GNU General Public License v3.0. This means you can edit and reuse this code anywhere and in any way you want, as long as you keep the code open source and provide proper attribution. 
+This extension is licensed under the GNU General Public License v3.0. This means you can edit and reuse this code anywhere and in any way you want, as long as you keep the code open source and provide proper attribution.<br>
 See the LICENSE file for more details.
