@@ -6,7 +6,7 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 
 - Lightweight: Designed to be minimalistic, ensuring a smooth and quick check of your RSS feeds.
 - Serverless: No need for a server, FlyeRSS operates entirely on the client side.
-- Multi-Browser Compatibility: Available on [Chrome](https://chromewebstore.google.com/), [Opera](https://addons.opera.com/fr/extensions/), [Firefox](https://addons.mozilla.org/fr/firefox/) and [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
+- Multi-Browser Compatibility: Available on Chrome, Opera, Firefox and Edge.
 - Storageless: All the RSS items are stored inside the browser and automatically removed following the FIFO principle.
 
 ### Installation
@@ -22,7 +22,7 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 
 ### Contribution
 
-Feel free to fork this repository and open pull requests to add your amazing features if you feel like it, I'll enjoy reviewing them. 
+Feel free to fork this repository and create pull requests to add your amazing features if you feel like it, I'll enjoy reviewing them. 
 Good ideas are more than welcome!
 
 ### License
