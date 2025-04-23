@@ -24,7 +24,7 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 ## Contribution
 
 Feel free to fork this repository and open pull requests to add your amazing features if you feel like it.<br>
-I'll enjoy reviewing them. Good ideas are always more than welcome!
+Good ideas are more than welcome!
 
 ## License
 
