@@ -2,7 +2,7 @@
 
 FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extension.
 
-### Features
+## Features
 
 - Lightweight: Designed to be minimalistic, ensuring a smooth and quick check of your RSS feeds.
 - Serverless: No need for a server, FlyeRSS operates entirely on the client side.
