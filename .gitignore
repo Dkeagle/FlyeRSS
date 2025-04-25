@@ -1,2 +1,2 @@
-# build directory stores the build scripts and releases
-build/
+# build directory stores the build scripts and releases, hide the releases.
+build/*.zip
