@@ -11,8 +11,9 @@ if (-not $browser){
 # Step 1: Create a "dist" directory
 New-Item -ItemType Directory -Path "dist"
 
-# Step 2: Copy everything from the "src" directory to the newly created "dist" one
+# Step 2: Copy everything from the "src" and "assets" directories to the newly created "dist" one
 Copy-Item -Path "src\*" -Destination "dist" -Recurse
+Copy-Item -Path "assets" -Destination "dist" -Recurse
 
 # Step 3: Copy the {argument}.json file from the "manifests" directory to the "dist" directory
 Copy-Item -Path "manifests\$browser.json" -Destination "dist\manifest.json"

@@ -20,8 +20,9 @@ fi
 # Step 1: Create a "dist" directory
 mkdir -p dist
 
-# Step 2: Copy everything from the "src" directory to the newly created "dist" one
+# Step 2: Copy everything from the "src" and "assets" directories to the newly created "dist" one
 cp -r src/* dist/
+cp -r assets dist/
 
 # Step 3: Copy the {argument}.json file from the "manifests" directory to the "dist" directory
 cp manifests/$browser.json dist/manifest.json
