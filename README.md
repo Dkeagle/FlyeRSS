@@ -30,3 +30,12 @@ Good ideas are more than welcome!
 
 This extension is licensed under the GNU General Public License v3.0. This means you can edit and reuse this code anywhere and in any way you want, as long as you keep the code open source and provide proper attribution.<br>
 See the LICENSE file for more details.
+
+## Credits
+
+<a href="https://www.flaticon.com/free-icons/puzzle" title="puzzle icons">Puzzle icons created by Tanah Basah - Flaticon</a>
+<a>https://www.flaticon.com/free-icon/puzzle_8621791</a>
+<a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Royyan Wijaya - Flaticon</a>
+<a>https://www.flaticon.com/free-icon/code_3573187</a>
+<a href="https://www.flaticon.com/free-icons/coffee-cup" title="coffee cup icons">Coffee cup icons created by Freepik - Flaticon</a>
+<a>https://www.flaticon.com/free-icon/hot-drink_3221215</a>
