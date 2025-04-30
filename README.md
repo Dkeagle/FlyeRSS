@@ -21,7 +21,6 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 
 3. Enjoy.
 
-
 ## Contribution
 
 Feel free to fork this repository and open pull requests to add your amazing features if you feel like it.<br>
@@ -34,8 +33,8 @@ See the LICENSE file for more details.
 
 ## Credits
 
-<a href="https://www.flaticon.com/authors/tanah-basah" title="Tanah Basah">Icons created by Tanah Basah - Flaticon</a>
-<a>https://www.flaticon.com/free-icon/puzzle_8621791</a>
-<a>https://www.flaticon.com/free-icon/news_18981181</a>
-<a>https://www.flaticon.com/free-icon/coffee_18981152</a>
-<a>https://www.flaticon.com/free-icon/developer_12515517</a>
+All the icons used in this project were created by [Tanah Basah](https://www.flaticon.com/authors/tanah-basah) and are available on [Flaticon](https://www.flaticon.com)
+- [News icon](https://www.flaticon.com/free-icon/news_18981181)
+- [Developer icon](https://www.flaticon.com/free-icon/developer_12515517)
+- [Puzzle icon](https://www.flaticon.com/free-icon/puzzle_8621791)
+- [Coffee icon](https://www.flaticon.com/free-icon/coffee_18981152)

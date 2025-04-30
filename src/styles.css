@@ -47,3 +47,24 @@ main{
     padding-top: 70px;
     width: 100%;
 }
+
+main .container{
+    margin: 50px 100px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+main .container h2{
+    font-size: 1.6em;
+    margin-bottom: 8px;
+}
+
+.credits ul{
+    margin-left: 32px;
+}
+
+.credits a{
+    color: #000000;
+    text-decoration: underline;
+    cursor: help;
+}
