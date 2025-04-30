@@ -12,9 +12,10 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 ## Installation
 1. Download the extension from your favorite browser's store:
     - [Chrome](https://chromewebstore.google.com/),
-    - [Opera](https://addons.opera.com/fr/extensions/),
+    - [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home),
     - [Firefox](https://addons.mozilla.org/fr/firefox/),
-    - [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home).
+    - [Opera](https://addons.opera.com/fr/extensions/),
+    - [Safari](https://apps.apple.com/us/story/id1377753262).
 2. Add your RSS feeds in the settings,<br>
    *Optional*: Add filters to your feeds if needed.
 
@@ -33,9 +34,8 @@ See the LICENSE file for more details.
 
 ## Credits
 
-<a href="https://www.flaticon.com/free-icons/puzzle" title="puzzle icons">Puzzle icons created by Tanah Basah - Flaticon</a>
+<a href="https://www.flaticon.com/authors/tanah-basah" title="Tanah Basah">Icons created by Tanah Basah - Flaticon</a>
 <a>https://www.flaticon.com/free-icon/puzzle_8621791</a>
-<a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Royyan Wijaya - Flaticon</a>
-<a>https://www.flaticon.com/free-icon/code_3573187</a>
-<a href="https://www.flaticon.com/free-icons/coffee-cup" title="coffee cup icons">Coffee cup icons created by Freepik - Flaticon</a>
-<a>https://www.flaticon.com/free-icon/hot-drink_3221215</a>
+<a>https://www.flaticon.com/free-icon/news_18981181</a>
+<a>https://www.flaticon.com/free-icon/coffee_18981152</a>
+<a>https://www.flaticon.com/free-icon/developer_12515517</a>
