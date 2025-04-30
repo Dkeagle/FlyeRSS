@@ -34,7 +34,7 @@ See the LICENSE file for more details.
 ## Credits
 
 All the icons used in this project were created by [Tanah Basah](https://www.flaticon.com/authors/tanah-basah) and are available on [Flaticon](https://www.flaticon.com)
-    - [News icon](https://www.flaticon.com/free-icon/news_18981181)
-    - [Developer icon](https://www.flaticon.com/free-icon/developer_12515517)
-    - [Puzzle icon](https://www.flaticon.com/free-icon/puzzle_8621791)
-    - [Coffee icon](https://www.flaticon.com/free-icon/coffee_18981152)
+   - [News icon](https://www.flaticon.com/free-icon/news_18981181)
+   - [Developer icon](https://www.flaticon.com/free-icon/developer_12515517)
+   - [Puzzle icon](https://www.flaticon.com/free-icon/puzzle_8621791)
+   - [Coffee icon](https://www.flaticon.com/free-icon/coffee_18981152)
