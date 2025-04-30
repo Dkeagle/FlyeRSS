@@ -6,16 +6,16 @@ FlyeRSS is a lightweight RSS Aggregator running as a serverless browser extensio
 
 - Lightweight: Designed to be minimalistic, ensuring a smooth and quick check of your RSS feeds.
 - Serverless: No need for a server, FlyeRSS operates entirely on the client side.
-- Multi-Browser Compatibility: Available on Chrome, Opera, Firefox and Edge.
-- Storageless: All the RSS items are stored inside the browser and automatically removed following the FIFO principle.
+- Multi-Browser Compatibility: Available on Chrome, Edge, Firefox, Opera and Safari.
+- Easy to use: Setup your feeds and filters, use colors and you're ready to go!
 
 ## Installation
 1. Download the extension from your favorite browser's store:
-    - [Chrome](https://chromewebstore.google.com/),
-    - [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home),
-    - [Firefox](https://addons.mozilla.org/fr/firefox/),
-    - [Opera](https://addons.opera.com/fr/extensions/),
-    - [Safari](https://apps.apple.com/us/story/id1377753262).
+- [Chrome](https://chromewebstore.google.com/),
+- [Edge](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home),
+- [Firefox](https://addons.mozilla.org/fr/firefox/),
+- [Opera](https://addons.opera.com/fr/extensions/),
+- [Safari](https://apps.apple.com/us/story/id1377753262).
 2. Add your RSS feeds in the settings,<br>
    *Optional*: Add filters to your feeds if needed.
 
